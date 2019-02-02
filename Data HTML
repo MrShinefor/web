@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Apple & Facebook</title>
+    <meta charset="utf-8">
+  </head>
+
+  <body>
+    <h1><a href="Data HTML">To the future of Ran</a></h1>
+    <h2><strong>APPLE & FACEBOOK</strong></h2>
+    Let's find out aboout the <strong><u>global IT compony</strong></u>, <strong>APPLE</strong> and <strong>FACEBOOK</strong>.<br><br>
+      <ol>
+        <li><strong><a href="1.HTML">Apple</a></strong></li>
+        <li><strong><a href="2.HTML">Facebook</a></strong></li>
+      </ol>
+      <h3>APPLE</h3>First let's find out about APPLE. APPLE was established on April 1 1976.
+      The founders of APPLE are Stephen Steve Wozniak(Steve Gary Wozniak) and the well-known Steve Jobs.
+      There meeting was with a lone dreamer with a genius engineer.<br><br>
+      Here i am going to focus on Jobs. The reason is that I am fan of Jobs and he is more well known to the public.
+      <p><h3>Steve Jobs</h3 ><h4>1955.2.24~2011.10.5</h4></p>
+        When he raised Apple, Jobs failed several times, and when he was 30, the board fired him.<br>
+        He had a hard time,but he got up again to set up NEXT and took over Pixar. At Pixar he made the movie Toy Story.<br>
+        Then in 1966, Apple took over NEXT and returned to Apple as its CEO.
+        <h3><u>The present Apple<u></h3>
+          The current representative(CEO) : Tim Cook<br>
+          The head office : 1 INFINITE LOOP , CUPERTINO, CA, 95014<br>
+          Apple's current stock prices(현재 주가) : us$ 156.30(2019.01.29)<br>
+          <img src="Apple.jpg" width="10%"><br>
+          Apple link = <a href = "https://www.apple.com/" target="_blank" title="apple homepage">애플 공식사이트</a>
+        </body>
+</html>
